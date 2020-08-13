@@ -5,6 +5,7 @@
 !.gitignore
 !.gitmodules
 !README.md
+!LICENSE
 
 # whitelist expected folders and files
 !/vitis/
